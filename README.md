@@ -11,8 +11,9 @@ These style translations are trained by our models using CNN using online data s
 **Small Walk Through**
 
 First view is to log in. Once you have created an account, your informatio will be stored in
-our database. This means you can log in again next time using the same account and see photos
-that you uploaded before in your storyboard.
+our database (will work on security and privacy of course). But basically this means you can
+log in again next time using the same account and see photos that you uploaded before in your
+storyboard.
 
 Once you have uploaded photos and chosen your style (or choose to keep your photo in orignal state),
 you can upload it to your storyboard. You can also choose to share the location of this photo
@@ -32,15 +33,18 @@ choose styles).
 **Further Development**
 
 When our databas grow large, we can also perform data analysis and extend to answering questions like
-what styles do people use the most in this region/city/country/postal code district.
+what styles do people use the most in this region/city/country/postal code district. Or more, like when
+people open/use this app most frequently and page view time and activity and stuff.
 
-Or more, like when people open/use this app most frequently and page view time and activity and stuff.
+Also, privacy and security as I mentioned.
+
+Moreover, efficiency and database storage if data becomes large.
 
 ----
 
 **Happy exploring**
 
-This project is still ongoing and updated in next few days. But feel free to connect it to your phone
-and try it yourself!
+This project development is still ongoing and many parts will be frequently updated .
+But feel free to connect it to your phone and have fun trying it yourself!
 
 
